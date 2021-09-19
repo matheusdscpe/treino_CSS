@@ -1,0 +1,104 @@
+.header{
+    align-items: center;
+    justify-content: center;
+
+}
+
+.logo {
+    display: flex;
+    width: 500px;
+    height: 100px;
+    margin-left: -70px;
+
+}
+
+.logo img {
+    width: 400px;
+}
+
+.h2 {
+    width: 500px;
+    height: 200px;
+    text-align: left;
+    margin: 14px;
+    display: block;   
+}
+
+.h2 h2 {
+    font-weight: normal;
+    font-size: 27px;
+}
+
+
+.main {
+    display: flex;
+    width: 600px;
+    height: 560px;
+    justify-content: center;
+    align-items: center;
+    margin: 14px;
+
+}
+
+.box {
+    margin: 14px;   
+}
+
+.boxUser {
+    margin: 14px;
+    width: 350px;
+    height: 400px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+}
+
+.boxUser input {
+    border-width: 1px;
+    border-color: rgb(218, 218, 218);
+    border-style: solid;
+    width: 300px;
+    height: 25px;
+    padding: 14px;
+    margin: 14px;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+p {
+    margin: 14px;
+    padding: 14px;
+    text-align: center;
+    cursor: pointer;
+}
+
+button {
+    border-width: 1px;
+    border-color: rgb(212, 212, 212);
+    border-style: solid;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    font-size: 20px;
+    color: white;
+    cursor: pointer;
+}
+
+#entra {
+    background-color: rgb(50, 104, 205);
+}
+
+#cadastra-se {
+    background-color: rgb(48, 148, 57);
+}
+
+hr {
+    border-width: 1px;
+    border-color: rgb(143, 143, 143);
+    border-style: solid;
+    margin-bottom: 14px;
+    width: 320px;
+    margin-left: 12px;
+    margin-left: 12px;
+}
